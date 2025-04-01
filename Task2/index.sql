@@ -8,3 +8,5 @@
   SELECT * FROM Employees ORDER BY Salary DESC;
 
   SELECT * FROM Employees WHERE Age > 30 AND Salary > 70000;
+
+  
